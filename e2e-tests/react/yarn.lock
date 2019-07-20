@@ -4795,9 +4795,9 @@ openssl-self-signed-certificate@1.1.6:
   version "1.1.6"
   resolved "https://registry.yarnpkg.com/openssl-self-signed-certificate/-/openssl-self-signed-certificate-1.1.6.tgz#9d3a4776b1a57e9847350392114ad2f915a83dd4"
 
-opentracing@0.14.3:
-  version "0.14.3"
-  resolved "https://registry.yarnpkg.com/opentracing/-/opentracing-0.14.3.tgz#23e3ad029fa66a653926adbe57e834469f8550aa"
+opentracing@0.14.4:
+  version "0.14.4"
+  resolved "https://registry.yarnpkg.com/opentracing/-/opentracing-0.14.4.tgz#a113408ea740da3a90fde5b3b0011a375c2e4268"
 
 opn@5.2.0:
   version "5.2.0"
@@ -7191,7 +7191,7 @@ yauzl@2.8.0:
     fd-slicer "~1.0.1"
 
 "zipkin-javascript-opentracing@file:../..":
-  version "1.5.1"
+  version "2.0.1"
 
 zipkin-transport-http@0.10.1:
   version "0.10.1"
